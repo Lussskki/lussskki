@@ -3,11 +3,11 @@ Hi there! I'm Luka, a Junior Full-Stack Web Developer from Georgia.
 
 I am proficient in the following programming languages:
 
-   HTML 📝
-   CSS 🎨
-   JavaScript 🚀
-   React 🔥
-   Node.js 💡
+  - HTML 📝
+  - CSS 🎨
+  - JavaScript 🚀
+  - React 🔥
+  - Node.js 💡
    
 I'm always eager to learn new things and expand my skill set. I'm passionate about developing great user experiences and creating robust, scalable applications.
 
