@@ -13,9 +13,9 @@ I'm always eager to learn new things and expand my skill set. I'm passionate abo
 
 ## 🚀 Projects 🚀
 Here are some of my recent projects:
-    1.Github Repo Link: https://github.com/Lussskki/BITCAMP101-PROJECTS
-    2.My Portfolio site: https://github.com/Lussskki/My-Portfolio-express-html-css-js-Node.js-training 
-    3.MVC Ecommerce back: https://github.com/Lussskki/MVC-DESIGN-E-COMMERCE.PROJECT-NODE
+   - 1.Github Repo Link: https://github.com/Lussskki/BITCAMP101-PROJECTS
+   - 2.My Portfolio site: https://github.com/Lussskki/My-Portfolio-express-html-css-js-Node.js-training 
+   - 3.MVC Ecommerce back: https://github.com/Lussskki/MVC-DESIGN-E-COMMERCE.PROJECT-NODE
 ## 💬 Contact Me 💬
 Feel free to reach out to me if you have any questions or if you'd like to work together on a project. I'm always open to new opportunities and collaborations.
 
