@@ -18,6 +18,9 @@ Here are some of my recent projects:
    - 2.My Portfolio site: https://github.com/Lussskki/My-Portfolio-express-html-css-js-Node.js-training 
    - 3.MVC Ecommerce back: https://github.com/Lussskki/MVC-DESIGN-E-COMMERCE.PROJECT-NODE
    - 4.BitcampPython Repo Link: https://github.com/Lussskki/BITCAMP-PYTHO%EF%BF%BCN-CHALLENGES-COURSES-LISTS
+   - 5.Node.js  Get-post-put-delete: https://github.com/Lussskki/nodejs-get-post-method
+   - 6.Bitcamp movie website back: https://github.com/Lussskki/otozakalashvili-lecture-bitcamp 
+
 ## 💬 Contact Me 💬
 Feel free to reach out to me if you have any questions or if you'd like to work together on a project. I'm always open to new opportunities and collaborations.
 
