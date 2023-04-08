@@ -15,10 +15,10 @@ I'm always eager to learn new things and expand my skill set. I'm passionate abo
 ## 🚀 Projects 🚀
 Here are some of my recent projects:
    - 1.Bitcamp101 Repo Link: https://github.com/Lussskki/BITCAMP101-PROJECTS
-   - 2.My Portfolio site: https://github.com/Lussskki/My-Portfolio-express-html-css-js-Node.js-training 
+   - 2.Portfolio site: https://github.com/Lussskki/PORTFOLIO-PROJECT
    - 3.MVC Ecommerce back: https://github.com/Lussskki/MVC-DESIGN-E-COMMERCE.PROJECT-NODE
-   - 4.BitcampPython Repo Link: https://github.com/Lussskki/BITCAMP-PYTHO%EF%BF%BCN-CHALLENGES-COURSES-LISTS
-   - 5.Node.js  Get-post-put-delete: https://github.com/Lussskki/nodejs-get-post-method
+   - 4.Bitcamp Python Repo Link: https://github.com/Lussskki/BITCAMP-PYTHO%EF%BF%BCN-CHALLENGES-COURSES-LISTS
+   - 5.Node.js CRUD application: https://github.com/Lussskki/NODE.JS-CRUD-APPLICATION
    - 6.Bitcamp movie website back: https://github.com/Lussskki/otozakalashvili-lecture-bitcamp 
 
 ## 💬 Contact Me 💬
