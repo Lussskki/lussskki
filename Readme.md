@@ -12,7 +12,7 @@ I am proficient in the following programming languages:
    
 I'm always eager to learn new things and expand my skill set. I'm passionate about developing great user experiences and creating robust, scalable applications.
 
-## 🚀 Projects 🚀
+<h1 align="center">🚀 Projects 🚀</h1>
 Here are some of my recent projects:
    - 1.Bitcamp101 Repo Link: https://github.com/Lussskki/BITCAMP101-PROJECTS
    - 2.Portfolio site: https://github.com/Lussskki/PORTFOLIO-PROJECT
@@ -21,7 +21,7 @@ Here are some of my recent projects:
    - 5.Node.js CRUD application: https://github.com/Lussskki/NODE.JS-CRUD-APPLICATION
    - 6.Bitcamp movie website back: https://github.com/Lussskki/otozakalashvili-lecture-bitcamp 
 
-## 💬 Contact Me 💬
+<h1 align="center">💬 Contact Me 💬</h1>
 Feel free to reach out to me if you have any questions or if you'd like to work together on a project. I'm always open to new opportunities and collaborations.
 
     Email: lukaguledani123@gmail.com    
