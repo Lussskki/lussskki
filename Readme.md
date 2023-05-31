@@ -1,4 +1,4 @@
-## 💻 Luka's GitHub Resume 💻
+<h1 align="center">💻 Luka's GitHub Resume 💻</h1>
 Hi there! I'm Luka, a Junior Full-Stack Web Developer from Georgia.
 
 I am proficient in the following programming languages:
