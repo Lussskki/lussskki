@@ -33,7 +33,7 @@
 <p align="center">Feel free to reach out to me if you have any questions or if you'd like to work together on a project. I'm always open to new opportunities and collaborations.</p>
 
 <p align="center">
-  <a href="lukaguledani123@gmail.com">Email</a><br>
+  <a>Email: lukaguledani123@gmail.com</a><br>
   <a href="www.linkedin.com/in/luka-guledani-0a0524227">Linkedin</a><br>
 </p>
 
