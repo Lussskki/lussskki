@@ -34,7 +34,7 @@
 
 <p align="center">
   <a>Email: lukaguledani123@gmail.com</a><br>
-  <a href="www.linkedin.com/in/luka-guledani-0a0524227">Linkedin</a><br>
+  <a>Linkedin: www.linkedin.com/in/luka-guledani-0a0524227</a><br>
 </p>
 
 <p align="center">Thanks for visiting my GitHub! 🙌</p>
