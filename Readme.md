@@ -1,40 +1,16 @@
-<h1 align="center">💻 Luka's GitHub Resume 💻</h1>
+[![](https://visitcount.itsvg.in/api?id=Vanoo123&icon=5&color=12)](https://visitcount.itsvg.in)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%23563D7C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=%23FFFFFF)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">Hi there! I'm Luka, a Junior Full-Stack Web Developer from Georgia.</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Lussskki&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lussskki&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lussskki&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">I am proficient in the following programming languages:</p>
-
-<p align="center">
-   HTML 📝<br>
-   CSS 🎨<br>
-   JavaScript 🚀<br>
-   React 🔥<br>
-   Node.js 💡<br>
-   Python 🔥<br>
-</p>
-
-<p align="center">I'm always eager to learn new things and expand my skill set. I'm passionate about developing great user experiences and creating robust, scalable applications.</p>
-
-<h2 align="center">🚀 Projects 🚀</h2>
-
-<p align="center">Here are some of my recent projects:</p>
-
-<p align="center">
-  <a href="https://github.com/Lussskki/BITCAMP101-PROJECTS"> Bitcamp101 Repo</a><br>
-  <a href="https://github.com/Lussskki/portfo"> Portfolio</a><br>
-  <a href="https://github.com/Lussskki/MVC-DESIGN-E-COMMERCE.PROJECT-NODE"> MVC Ecommerce back</a><br>
-  <a href="https://github.com/Lussskki/BITCAMP-PYTHO%EF%BF%BCN-CHALLENGES-COURSES-LISTS"> Bitcamp Python Repo</a><br>
-  <a href="https://github.com/Lussskki/NODE.JS-CRUD-APPLICATION"> Node.js CRUD application</a><br>
-  <a href="https://github.com/Lussskki/otozakalashvili-lecture-bitcamp"> Bitcamp movie website back</a><br>
-</p>
-
-<h2 align="center">💬 Contact Me 💬</h2>
-
-<p align="center">Feel free to reach out to me if you have any questions or if you'd like to work together on a project. I'm always open to new opportunities and collaborations.</p>
-
-<p align="center">
-  <a>Email: lukaguledani123@gmail.com</a><br>
-  <a>Linkedin: www.linkedin.com/in/luka-guledani-0a0524227</a><br>
-</p>
-
-<p align="center">Thanks for visiting my GitHub! 🙌</p>
+---
