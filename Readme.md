@@ -8,6 +8,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+  🌱 I’m currently learning: **Python**
+ 
  📫 How to reach me: **lukaguledani123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
