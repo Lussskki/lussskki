@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-  🌱 I’m currently Working on Node.js/React.js
+  🌱 I'm currently Working on myself, increasing my self for future challenges using computer science.
  
  📫 How to reach me: **lukaguledani123@gmail.com**
 
