@@ -13,7 +13,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-  🌱 I'm currently Working on myself, increasing self for future challenges using computer science.
+  <!--🌱 I'm currently Working on myself, increasing self for future challenges using computer science. -->
  
  📫 How to reach me: **lukaguledani123@gmail.com**
 
@@ -23,11 +23,27 @@
 </p>
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lussskki&theme=dark&hide_border=false&include_all_commits=true&count_private=false&token=YOUR_GITHUB_TOKEN)
+[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=Lussskki&theme=gruvbox_duo&hide_border=true)](https://lussskki.dev/blog/).
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lussskki&theme=dark&hide_border=false)
+[![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lussskki&show_icons=true&theme=transparent)](https://lussskki.dev/blog/).
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lussskki&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=YOUR_GITHUB_TOKEN)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lussskki&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=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)
 
 
 ---
+
+
+<!--
+**Lussskki/Lussskki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
