@@ -1,4 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Vanoo123&icon=5&color=12)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=Lussskki&label=Profile%20views&color=0e75b6&style=flat" alt="Lussskki" /> 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=%23FFFFFF)
