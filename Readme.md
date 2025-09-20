@@ -16,7 +16,7 @@
 
   <!--🌱 I'm currently Working on myself, increasing self for future challenges using computer science. -->
  
- <!-- 📫 How to reach me: **lukaguledani123@gmail.com** --!>
+ <!-- 📫 How to reach me: **lukaguledani123@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
