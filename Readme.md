@@ -1,3 +1,9 @@
+👋 Hello, i am Luka Guledani 
+# About me 
+Hello, I'm a Back-End Developer passionate about turning ideas into fast, functional, and user-friendly web applications. With experience in JavaScript, Node.js, and TypeScript, I build modern web apps from concept to deployment. I've delivered multiple projects focusing on clean code, responsive design, and smooth user experiences.
+
+I’m deeply passionate about backend development, especially building efficient systems and solving complex problems. Beyond web development, I’m also enthusiastic about gaming and rendering, and I’m currently learning C++ to explore game development. I love learning new technologies and collaborating on projects that make a real impact.
+
 [![](https://visitcount.itsvg.in/api?id=Vanoo123&icon=5&color=12)](https://visitcount.itsvg.in)
 <img src="https://komarev.com/ghpvc/?username=Lussskki&label=Profile%20views&color=0e75b6&style=flat" alt="Lussskki" /> 
 # 💻 Tech Stack:
