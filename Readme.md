@@ -10,7 +10,7 @@ https://magnificent-beignet-0b5454.netlify.app/
 
 [![](https://visitcount.itsvg.in/api?id=Vanoo123&icon=5&color=12)](https://visitcount.itsvg.in)
 <img src="https://komarev.com/ghpvc/?username=Lussskki&label=Profile%20views&color=0e75b6&style=flat" alt="Lussskki" /> 
-# 💻 Tech Stack:
+# Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D?style=for-the-badge&logo=node.js&logoColor=%23FFFFFF)
 ![Python](https://img.shields.io/badge/python-%23563D7C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -33,7 +33,7 @@ https://magnificent-beignet-0b5454.netlify.app/
 <a href="https://www.linkedin.com/in/lukaguledani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lussskki/" height="30" width="40" /></a>
 </p>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=Lussskki&theme=gruvbox_duo&hide_border=true)](https://lussskki.dev/blog/).
 
 [![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lussskki&show_icons=true&theme=transparent)](https://lussskki.dev/blog/).
