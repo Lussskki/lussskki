@@ -1,8 +1,12 @@
 👋 Hello, i am Luka Guledani 
 # About me 
-Hello, I'm a Back-End Developer passionate about turning ideas into fast, functional, and user-friendly web applications. With experience in JavaScript, Node.js, and TypeScript, I build modern web apps from concept to deployment. I've delivered multiple projects focusing on clean code, responsive design, and smooth user experiences.
+I'm a Back-End Developer passionate about turning ideas into fast, functional, and user-friendly web applications. With experience in JavaScript, Node.js, and TypeScript, I build modern web apps from concept to deployment. I've delivered multiple projects focusing on clean code, responsive design, and smooth user experiences.
 
 I’m deeply passionate about backend development, especially building efficient systems and solving complex problems. Beyond web development, I’m also enthusiastic about gaming and rendering, and I’m currently learning C++ to explore game development. I love learning new technologies and collaborating on projects that make a real impact.
+
+My CV:
+https://magnificent-beignet-0b5454.netlify.app/
+---
 
 [![](https://visitcount.itsvg.in/api?id=Vanoo123&icon=5&color=12)](https://visitcount.itsvg.in)
 <img src="https://komarev.com/ghpvc/?username=Lussskki&label=Profile%20views&color=0e75b6&style=flat" alt="Lussskki" /> 
@@ -36,7 +40,6 @@ I’m deeply passionate about backend development, especially building efficient
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lussskki&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=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)
 
-My CV site link where you can see other information about me and see my projects: https://magnificent-beignet-0b5454.netlify.app/
 ---
 
 
