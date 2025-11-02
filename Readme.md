@@ -30,11 +30,17 @@ https://magnificent-beignet-0b5454.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lukaguledani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lukaguledani/" height="30" width="40" /></a>
-<a href="https://discordapp.com/users/949755349483806792" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/lukaguledani/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://discordapp.com/users/949755349483806792" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@lukaguledani123" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
+
 
 # GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=Lussskki&theme=gruvbox_duo&hide_border=true)](https://lussskki.dev/blog/).
