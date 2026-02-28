@@ -42,10 +42,11 @@ https://magnificent-beignet-0b5454.netlify.app/
 # GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=Lussskki&theme=gruvbox_duo&hide_border=true)](https://lussskki.dev/blog/).
 
+<!--
 [![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lussskki&show_icons=true&theme=transparent)](https://lussskki.dev/blog/).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lussskki&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=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)
-
+-->
 ---
 
 
