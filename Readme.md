@@ -39,7 +39,6 @@ I’m deeply passionate about backend development, especially building efficient
 
 
 # GitHub Stats:
- <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Lussskki&data=followers,repositories,stars,commits&theme=nautilus">
 <p align="line">
         <img src="https://streak-stats.demolab.com/?user=Lussskki&theme=tokyonight"/>
             <br/>
@@ -76,6 +75,7 @@ https://magnificent-beignet-0b5454.netlify.app/
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph.svg">
           <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph.svg">
         </picture>
+         <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Lussskki&data=followers,repositories,stars,commits&theme=nautilus">
 -->
 ---
 
