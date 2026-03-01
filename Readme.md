@@ -40,15 +40,24 @@ I’m deeply passionate about backend development, especially building efficient
 
 # GitHub Stats:
  <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Lussskki&data=followers,repositories,stars,commits&theme=nautilus">
-
-<img src="https://streak-stats.demolab.com/?user=Lussskki&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lussskki&theme=tokyonight">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lussskki&theme=tokyonight">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lussskki&theme=tokyonight">
-<br/>
+<p align="line">
+        <img src="https://streak-stats.demolab.com/?user=Lussskki&theme=tokyonight"/>
+            <br/>
+            <br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lussskki&theme=tokyonight">
+            <br/>
+            <br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lussskki&theme=tokyonight">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lussskki&theme=tokyonight">
+            <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lussskki&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lussskki&theme=tokyonight">
-            
+            <br/>
+            <br/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lussskki&theme=rogue"/>
+
+        
+</p>
 
 
 
@@ -60,6 +69,13 @@ I’m deeply passionate about backend development, especially building efficient
 My CV:
 https://magnificent-beignet-0b5454.netlify.app/
 [![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=Lussskki&theme=gruvbox_duo&hide_border=true)](https://lussskki.dev/blog/).
+            <br/>
+            <br/>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph.svg">
+          <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph.svg">
+        </picture>
 -->
 ---
 
