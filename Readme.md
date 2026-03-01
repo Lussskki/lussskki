@@ -4,8 +4,7 @@ I'm a Back-End Developer passionate about turning ideas into fast, functional, a
 
 I’m deeply passionate about backend development, especially building efficient systems and solving complex problems. Beyond web development, I’m also enthusiastic about gaming and rendering, and I’m currently learning C++ to explore game development. I love learning new technologies and collaborating on projects that make a real impact.
 
-My CV:
-https://magnificent-beignet-0b5454.netlify.app/
+
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Vanoo123&icon=5&color=12)](https://visitcount.itsvg.in)
@@ -40,12 +39,27 @@ https://magnificent-beignet-0b5454.netlify.app/
 
 
 # GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=Lussskki&theme=gruvbox_duo&hide_border=true)](https://lussskki.dev/blog/).
+ <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Lussskki&data=followers,repositories,stars,commits&theme=nautilus">
+
+<img src="https://streak-stats.demolab.com/?user=Lussskki&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lussskki&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lussskki&theme=tokyonight">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lussskki&theme=tokyonight">
+<br/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lussskki&theme=tokyonight">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lussskki&theme=tokyonight">
+            
+
+
+
 
 <!--
 [![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lussskki&show_icons=true&theme=transparent)](https://lussskki.dev/blog/).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lussskki&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=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)
+My CV:
+https://magnificent-beignet-0b5454.netlify.app/
+[![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=Lussskki&theme=gruvbox_duo&hide_border=true)](https://lussskki.dev/blog/).
 -->
 ---
 
