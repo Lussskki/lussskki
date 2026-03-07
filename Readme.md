@@ -51,9 +51,9 @@ I’m deeply passionate about backend development, especially building efficient
             <br/>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lussskki&theme=tokyonight">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lussskki&theme=tokyonight">
+            <!-- <br/>
             <br/>
-            <br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lussskki&theme=rogue"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lussskki&theme=rogue"/> -->
 
         
 </p>
