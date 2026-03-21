@@ -32,41 +32,15 @@ I’m deeply passionate about backend development, especially building efficient
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukaguledani/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/949755349483806792)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lukaguledani123)
-[![Twitter/X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UnknownPass7)
-
-<!-- [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Soggy-Requirement109/) -->
-
-
-
-# GitHub Stats:
-<p align="line">
-        <img src="https://streak-stats.demolab.com/?user=Lussskki&theme=tokyonight"/>
-            <br/>
-            <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lussskki&theme=tokyonight">
-            <br/>
-            <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lussskki&theme=tokyonight">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lussskki&theme=tokyonight">
-            <br/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lussskki&theme=tokyonight">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lussskki&theme=tokyonight">
-            <!-- <br/>
-            <br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lussskki&theme=rogue"/> -->
-
-        
+[![Twitter/X](https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UnknownPass7)        
 </p>
 
 
-
-
-<!--
 [![Luka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lussskki&show_icons=true&theme=transparent)](https://lussskki.dev/blog/).
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lussskki&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact&token=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)
-My CV:
-https://magnificent-beignet-0b5454.netlify.app/
+<!---My CV:
+https://magnificent-beignet-0b5454.netlify.app/ -->
 [![GitHub Streak](https://github-readme-streak-stats-weld-one.vercel.app?user=Lussskki&theme=gruvbox_duo&hide_border=true)](https://lussskki.dev/blog/).
             <br/>
             <br/>
@@ -76,7 +50,7 @@ https://magnificent-beignet-0b5454.netlify.app/
           <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RomaLetodiani/RomaLetodiani/output/pacman-contribution-graph.svg">
         </picture>
          <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Lussskki&data=followers,repositories,stars,commits&theme=nautilus">
--->
+
 ---
 
 
